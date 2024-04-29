@@ -1,3 +1,5 @@
+📝 Note: This repository is my 2022 Software Engineering 1 group project. The main development period was from September 2022 to December 2022. It has been reuploaded from my teammate's private repository.
+
 # To Run
 
 # Prepare the Application
